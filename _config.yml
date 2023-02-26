@@ -8,6 +8,12 @@ theme: jekyll-theme-minimal
 
 # Custom
 excerpt_separator: <!--excerpt-->
+excerpt_length: 20
+
+# social media
+facebook_url: https://www.facebook.com/
+instagram_url: https://www.instagram.com/
+whatsapp_number: 11-1112223333
 
 # header menu
 header_menu:
@@ -23,16 +29,4 @@ header_menu:
 - title: Porfolio
   url: portfolio.html
 
-# social media
-social_media:
-- title: facebook
-  url: index.html
-   
-- title: instagram
-  url: contact.html
 
-- title: whatsapp
-  url: posts.html 
-
-- title: Porfolio
-  url: portfolio.html

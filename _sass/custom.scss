@@ -1,11 +1,23 @@
 .post_list {
 	padding-bottom: 10px;
 	display: flex;
+	flex-direction: column;
+	justify-content:space-between;
+	a {
+		font-size: 16px;
+		font-weight: bold;
+	}
+}
+
+.post_header {
+	display: flex;
 	flex-direction: row;
 	justify-content:space-between;
 	
-	small {
-		padding-left: 10px;
+	div {
+		padding-left: 5px;
+		display: flex;
+		flex-direction: column;
 	}
 }
 
