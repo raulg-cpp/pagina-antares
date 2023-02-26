@@ -1,6 +1,38 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+# Default
+title: Antares Technology
+logo: /assets/img/logo.jpeg
+description: Servicios de informática y telecomunicaciones 
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+# Custom
+excerpt_separator: <!--excerpt-->
+
+# header menu
+header_menu:
+- title: ¿Que hacemos?
+  url: index.html
+   
+- title: Contáctanos
+  url: contact.html
+
+- title: Tutoriales
+  url: posts.html 
+
+- title: Porfolio
+  url: portfolio.html
+
+# social media
+social_media:
+- title: facebook
+  url: index.html
+   
+- title: instagram
+  url: contact.html
+
+- title: whatsapp
+  url: posts.html 
+
+- title: Porfolio
+  url: portfolio.html

@@ -1,9 +1,8 @@
 ---
 layout: default
+title: Porfolio
 ---
 
-## Welcome to another page
-
-_yay_
+# Nuestro trabajo
 
 [back](./)
