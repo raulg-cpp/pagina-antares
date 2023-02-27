@@ -4,5 +4,3 @@ title: Porfolio
 ---
 
 # Nuestro trabajo
-
-[back](./)

@@ -1,3 +1,4 @@
+// posts
 .post_list {
 	padding-bottom: 10px;
 	display: flex;
@@ -21,20 +22,38 @@
 	}
 }
 
-// youtube style
-.youtube-wrapper {
+// youtube 
+.youtube {
   position: relative;
   width: 100%;
   height: 0;
   padding-bottom: 56.25%;
+
+  iframe {
+  	position: absolute;
+  	top: 0;
+  	left: 0;
+  	width: 100%;
+  	height: 100%;
+  	border: 0;
+  }
 }
-.youtube-wrapper iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
+
+// google maps
+.google-maps {
+  position: relative;
   width: 100%;
-  height: 100%;
-  border: 0;
+  height: 0;
+  padding-bottom: 56.25%;
+  
+  iframe {
+  	position: absolute;
+  	top: 0;
+  	left: 0;
+  	width: 100%;
+  	height: 100%;
+  	border: 0;
+  }
 }
 
 // social media
