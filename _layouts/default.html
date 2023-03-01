@@ -20,13 +20,13 @@
 			</a>
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        <!-- Page menu -->
+        <!-- header menu -->
+		<div class="header_menu">
    		{% for item in site.header_menu %}
-      		<h3><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></h3>
+      		<h1><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></h1>
    		{% endfor %}
-     
+     	</div>
+		
       </header>
       
       <section>
@@ -39,6 +39,10 @@
      	<!-- Social media -->
      	<h3 align="center">¡Contáctanos en las redes!</h3>		
       	{% include social-media.html %}
+
+		<!-- tagline -->
+		<p class="tagline">{{ site.description | default: site.github.project_tagline }}</p>
+
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
