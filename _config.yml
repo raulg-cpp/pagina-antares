@@ -1,7 +1,7 @@
 # Default
 title: Antares Technology
 logo: /assets/img/logo.jpeg
-description: Servicios de informática y telecomunicaciones 
+description: Servicios de electricidad, informática y telecomunicaciones 
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
@@ -14,6 +14,7 @@ excerpt_length: 20
 facebook_url: https://www.facebook.com/AntaresTechnology.ve?mibextid=ZbWKwL
 instagram_url: https://www.instagram.com/antarestechnology.ve/
 whatsapp_number: 584269701138
+email: Antarestechnologyonline@gmail.com
 
 # header menu
 header_menu:
@@ -26,7 +27,29 @@ header_menu:
 - title: Tutoriales
   url: posts.html 
 
-- title: Porfolio
+- title: Portafolio
   url: portfolio.html
 
+# Image sliders:
 
+# Electrical
+slider_electric:
+- url: /assets/img/portfolio/electric/electric-1.jpg
+- url: /assets/img/portfolio/electric/electric-2.jpg
+- url: /assets/img/portfolio/electric/electric-3.jpg
+- url: /assets/img/portfolio/electric/electric-4.jpg
+- url: /assets/img/portfolio/electric/electric-5.jpg
+
+# Telecom
+slider_telecom:
+- url: /assets/img/portfolio/telecom/telecom-1.jpg
+- url: /assets/img/portfolio/telecom/telecom-2.jpg
+- url: /assets/img/portfolio/telecom/telecom-3.jpg
+- url: /assets/img/portfolio/telecom/telecom-4.jpg
+
+# Computers
+slider_computer:
+- url: /assets/img/portfolio/computer/computer-1.jpg
+- url: /assets/img/portfolio/computer/computer-2.jpg
+- url: /assets/img/portfolio/computer/computer-3.jpg
+- url: /assets/img/portfolio/computer/computer-4.jpg

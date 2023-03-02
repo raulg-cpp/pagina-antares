@@ -1,0 +1,11 @@
+<div class="image-slider">	
+  	<div>
+  	{% for image in include.list %}
+    	<div>
+    		<p>{{ forloop.index }} / {{ forloop.length }}</p>
+      		<img loading="lazy" src="{{ image.url }}">
+    	</div>
+    {% endfor %}
+  	</div>		
+</div>
+
