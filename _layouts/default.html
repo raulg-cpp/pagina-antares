@@ -13,20 +13,13 @@
   <body>
     <div class="wrapper">
       <header>
-		<!-- Logo -->
         {% if site.logo %}
 			<a href="{{ "/" | absolute_url }}">
 				<img src="{{site.logo | relative_url}}" alt="Logo" />
 			</a>
         {% endif %}
-
-        <!-- header menu -->
-		<nav class="header_menu">
-		{% for item in site.header_menu %}
-      		<h1><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></h1>
-   		{% endfor %}
-     	</nav>
-		
+        
+		{% include header-menu.html %}		
       </header>
       
       <section>

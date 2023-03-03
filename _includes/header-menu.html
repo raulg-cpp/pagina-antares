@@ -1,0 +1,16 @@
+<nav class="fullscreen_menu">
+	{% include menu.html %}
+</nav>
+
+<nav class="mobile_menu">
+	<!-- Button -->
+	<input type="checkbox" id="toggle">
+	<label for="toggle">
+		<h2> &#9776; Menu </h2>
+	</label>
+	
+	<!-- List -->
+	<div class="content">
+  		{% include menu.html %}
+	</div>
+</nav>

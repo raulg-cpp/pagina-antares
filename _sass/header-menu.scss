@@ -1,0 +1,50 @@
+// fullscreen menu
+.fullscreen_menu {
+	text-align: center;
+}
+
+@media (max-width: 960px) {
+	.fullscreen_menu {
+		display:none;
+	}
+}
+
+
+// mobile menu
+.mobile_menu {
+	// toggle logic
+	input[type=checkbox] {
+  		display: none;
+	}
+		
+	input[type=checkbox]:checked ~ label ~ .content { 
+  		display: block;	// display
+	}
+	
+	.content {
+  		display: none; 	// hide 
+	}
+	
+	// styling
+	label {
+		h2 {
+			padding: 8px;
+			border-radius: 10px;
+			display: inline-block
+		}
+	}
+	
+	input:checked + label {
+		h2 {
+			color: white;
+			background: grey;
+		}
+	}
+}
+
+@media (min-width: 960px) {
+	.mobile_menu {
+		display:none;
+	}
+}
+
