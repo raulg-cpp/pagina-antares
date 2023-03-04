@@ -192,9 +192,14 @@ section {
   width:500px;
   float:right;
   padding-bottom:50px;
+  
+  // justify text
+  p {
+    text-align: justify;
+  }
 }
 
-small {
+small {text-align: justify;
   font-size:11px;
 }
 
