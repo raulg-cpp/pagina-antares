@@ -3,7 +3,7 @@ layout: default
 title: Portafolio
 ---
 
-# Imagenes de nuestro trabajo
+# Nuestro trabajo
 
 ## Electricidad  
 
@@ -18,11 +18,13 @@ Energía solar
 
 Diseño
 {% include image-slider.html list=site.data.images.slider_electric_design %}   
-<br> 
+
+<div style="padding-bottom: 10px;"></div>
  
 ## Telecomunicaciones
 {% include image-slider.html list=site.data.images.slider_telecom %}    
-<br> 
+
+<div style="padding-bottom: 10px;"></div>
 
 ## Informática 
 {% include image-slider.html list=site.data.images.slider_computer %} 
