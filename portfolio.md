@@ -19,12 +19,12 @@ Energía solar
 Diseño
 {% include image-slider.html list=site.data.images.slider_electric_design %}   
 
-<div style="padding-bottom: 10px;"></div>
+<div style="padding-bottom: 5px;"></div>
  
 ## Telecomunicaciones
 {% include image-slider.html list=site.data.images.slider_telecom %}    
 
-<div style="padding-bottom: 10px;"></div>
+<div style="padding-bottom: 5px;"></div>
 
 ## Informática 
 {% include image-slider.html list=site.data.images.slider_computer %} 

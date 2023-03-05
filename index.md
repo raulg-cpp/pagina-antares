@@ -5,7 +5,6 @@ title: Servicios
 
 # Nuestros servicios
 
-
 ## Electricidad 
 
 &#9656; Diseño de proyectos eléctricos residenciales, comerciales e industriales, canalización y distribución industrial.  
@@ -60,8 +59,7 @@ Propuesta de mejora del servicio, auditorías y consultoría técnica. Control d
 
 ## Soporte tecnico
 
-&#9656; Redes informáticas, análisis, tendido y mantenimiento de las mismas. Instalación de servidores, rack y antenas, manipulación de programas para
-auditoria informática, hardware y software para computadores.  
+&#9656; Redes informáticas, análisis, tendido y mantenimiento de las mismas. Instalación de servidores, rack y antenas, manipulación de programas para auditoria informática, hardware y software para computadores.  
 
 &#9656; Sistemas operativos con licenciamiento por volumen a nivel empresarial y hogareño herramientas informáticas, programas ofimáticos en entornos Windows, Linux, MacOS, y programación para la optimización de sistemas operativos adecuados al hardwaren instalado, asesorías para proyectos de oficinas, empresariales y demás.  
 
