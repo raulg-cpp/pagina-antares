@@ -1,0 +1,41 @@
+# Image sliders:
+
+# Electrical
+slider_electric_control:
+- url: /assets/img/portfolio/electric/control/control-1.jpg
+- url: /assets/img/portfolio/electric/control/control-2.jpg
+- url: /assets/img/portfolio/electric/control/control-3.jpg
+- url: /assets/img/portfolio/electric/control/control-4.jpg
+- url: /assets/img/portfolio/electric/control/control-5.jpg
+- url: /assets/img/portfolio/electric/control/control-6.jpg
+
+slider_electric_power:
+- url: /assets/img/portfolio/electric/power/power-1.jpg
+- url: /assets/img/portfolio/electric/power/power-2.jpg
+- url: /assets/img/portfolio/electric/power/power-3.jpg
+- url: /assets/img/portfolio/electric/power/power-4.jpg
+- url: /assets/img/portfolio/electric/power/power-5.jpg
+
+slider_electric_solar:
+- url: /assets/img/portfolio/electric/solar/solar-1.jpg
+- url: /assets/img/portfolio/electric/solar/solar-2.jpg
+
+slider_electric_design:
+- url: /assets/img/portfolio/electric/design/design-1.jpg
+- url: /assets/img/portfolio/electric/design/design-2.jpg
+
+# Telecom
+slider_telecom:
+- url: /assets/img/portfolio/telecom/telecom-1.jpg
+- url: /assets/img/portfolio/telecom/telecom-2.jpg
+- url: /assets/img/portfolio/telecom/telecom-3.jpg
+- url: /assets/img/portfolio/telecom/telecom-4.jpg
+- url: /assets/img/portfolio/telecom/telecom-5.jpg
+
+# Computers
+slider_computer:
+- url: /assets/img/portfolio/computer/computer-1.jpg
+- url: /assets/img/portfolio/computer/computer-2.jpg
+- url: /assets/img/portfolio/computer/computer-3.jpg
+- url: /assets/img/portfolio/computer/computer-4.jpg
+- url: /assets/img/portfolio/computer/computer-5.jpg

@@ -3,19 +3,26 @@ layout: default
 title: Portafolio
 ---
 
-# Nuestro trabajo
-[imagenes_portafolio](https://photos.app.goo.gl/3m4MJK5u4TcjCh5y5)
+# Imagenes de nuestro trabajo
 
-## Electricidad
-blablablalbablalbabla  
-{% include image-slider.html list=site.slider_electric %}  
+## Electricidad  
 
+Control
+{% include image-slider.html list=site.data.images.slider_electric_control %}  
 
-## Informática
-blablablablablablla  
-{% include image-slider.html list=site.slider_computer %}   
+Potencia
+{% include image-slider.html list=site.data.images.slider_electric_power %} 
 
+Energía solar
+{% include image-slider.html list=site.data.images.slider_electric_solar %} 
 
+Diseño
+{% include image-slider.html list=site.data.images.slider_electric_design %}   
+<br> 
+ 
 ## Telecomunicaciones
-blablalablablalblbabla  
-{% include image-slider.html list=site.slider_telecom %}  
+{% include image-slider.html list=site.data.images.slider_telecom %}    
+<br> 
+
+## Informática 
+{% include image-slider.html list=site.data.images.slider_computer %} 
