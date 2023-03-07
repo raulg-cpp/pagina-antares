@@ -1,5 +1,7 @@
 # Image sliders:
 
+#--- Portfolio
+
 # Electrical
 slider_electric_control:
 - url: /assets/img/portfolio/electric/control/control-1.jpg
@@ -38,3 +40,16 @@ slider_computer:
 - url: /assets/img/portfolio/computer/computer-3.jpg
 - url: /assets/img/portfolio/computer/computer-4.jpg
 - url: /assets/img/portfolio/computer/computer-5.jpg
+
+#--- Posts
+
+slider_post_motherboard:
+- url: /assets/img/posts/tutorials/motherboard-1.png
+- url: /assets/img/posts/tutorials/motherboard-2.png
+- url: /assets/img/posts/tutorials/motherboard-3.png
+
+slider_post_powersupply:
+- url: /assets/img/posts/tutorials/powersupply-2.jpeg
+- url: /assets/img/posts/tutorials/powersupply-3.jpeg
+
+

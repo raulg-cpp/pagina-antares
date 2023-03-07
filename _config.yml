@@ -24,9 +24,8 @@ header_menu:
 - title: Contáctanos
   url: contact.html
 
-- title: Tutoriales
-  url: posts.html 
-
 - title: Portafolio
   url: portfolio.html
 
+- title: Tutoriales
+  url: posts.html 
