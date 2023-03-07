@@ -5,7 +5,8 @@ title: Servicios
 
 # Nuestros servicios:
 
-Somos una empresa que ofrece servicios de electricidad, informática y telecomunicaciones. Selecciona una categoria para mas informacion!
+Somos una empresa que ofrece servicios de electricidad, informática y telecomunicaciones. ¡Selecciona una categoría para más información!
+
 
 <!-- HTML -->
 
