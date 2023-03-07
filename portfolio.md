@@ -3,28 +3,25 @@ layout: default
 title: Portafolio
 ---
 
-# Nuestro trabajo
+# Nuestro trabajo:
 
 ## Electricidad  
-
-Control
+Control:
 {% include image-slider.html list=site.data.images.slider_electric_control %}  
 
-Potencia
+Potencia:
 {% include image-slider.html list=site.data.images.slider_electric_power %} 
 
-Energía solar
+Energía solar:
 {% include image-slider.html list=site.data.images.slider_electric_solar %} 
 
-Diseño
+Diseño:
 {% include image-slider.html list=site.data.images.slider_electric_design %}   
-
-<div style="padding-bottom: 5px;"></div>
  
 ## Telecomunicaciones
+Servidores y camaras:
 {% include image-slider.html list=site.data.images.slider_telecom %}    
 
-<div style="padding-bottom: 5px;"></div>
-
 ## Informática 
+Ordenadores:
 {% include image-slider.html list=site.data.images.slider_computer %} 

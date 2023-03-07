@@ -193,15 +193,15 @@ section {
   width:500px;
   float:right;
   padding-bottom:50px;
-  
-  // justify text
-  p {
-    text-align: justify;
-  }
 }
 
-small {text-align: justify;
-  font-size:11px;
+// Justify text on desktop
+@media (min-width: 960px) {
+	section {
+		p {
+			text-align: justify;
+		}
+	}
 }
 
 hr {
