@@ -101,7 +101,7 @@ Somos una empresa que ofrece servicios de electricidad, informática y telecomun
 	Propuesta de mejora del servicio, auditorías y consultoría técnica. Control de proveedores. Gestión de inmuebles y residuos.
 	</p>
 	
-	<img src="https://t3.ftcdn.net/jpg/00/85/49/70/360_F_85497025_rOkXkFImC8GZXtXTICTSBXAMWgMU83Mq.jpg">
+	<img src="http://st.depositphotos.com/2511443/3213/i/450/depositphotos_32139119-Network-switch-and-UTP-ethernet-cables.jpg">
 </details>
 
 <!-- block 3 -->
