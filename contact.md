@@ -7,6 +7,10 @@ title: Contáctanos
 Numero de telefono:  
 **+{{ site.whatsapp_number }}**  
 
+Numeros de Whatsapp:  
+_#1:_ **{{ site.whatsapp_number }}**  
+_#2:_ **{{ site.whatsapp_number2 }}** 
+
 Correo electronico:  
 **{{ site.email }}**
 
